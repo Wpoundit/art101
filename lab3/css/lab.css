@@ -7,3 +7,7 @@
     border: solid 1px #b3e5f5;
     background-color: #b3e5f5;
   }
+
+#portrait {
+  width: 500px;
+}
