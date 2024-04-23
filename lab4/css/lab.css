@@ -4,6 +4,10 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
+    border: solid 1px #0f0f0f;
     background-color: #DDD8C4;
+  }
+
+  #portrait {
+    width: 500px;
   }
