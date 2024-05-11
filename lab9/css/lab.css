@@ -1,0 +1,31 @@
+#Challenge {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #0a0a0a;
+  background-color: #679ff3;
+}
+
+#Problems {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #0a0a0a;
+  background-color: #679ff3;
+}
+
+#Results {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #0a0a0a;
+  background-color: #679ff3;
+}
+
+#portrait {
+  width: 700px;
+}
+
+.special {
+  background-color: rgb(8, 245, 193);
+  border: dotted 50px rgb(149, 114, 243);
+  color: rgb(33, 252, 33);
+  font-weight: bold;
+}
